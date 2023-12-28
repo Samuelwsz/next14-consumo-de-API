@@ -5,3 +5,11 @@
 https://www.npmjs.com/package/react-intersection-observer
 
 npm install react-intersection-observer --save
+
+### framer-motion
+
+https://www.framer.com/motion/
+
+https://www.npmjs.com/package/framer-motion
+
+npm i framer-motion
