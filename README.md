@@ -7,3 +7,7 @@
 ### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
 ### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
 
+
+
+### Aprendendo mais sobre o next14 seguindo o video do canal [JavaScript Mastery](https://www.youtube.com/watch?v=FKZAXFjxlJI&list=WL&index=26&ab_channel=JavaScriptMastery)
+
